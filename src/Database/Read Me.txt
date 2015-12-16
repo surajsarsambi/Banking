@@ -1,0 +1,1 @@
+Import this .Sql File Using MySql WorkBench Data Import Facility/..
