@@ -11,10 +11,6 @@ import java.util.logging.Logger;
 import javax.swing.JOptionPane;
 import javax.swing.table.DefaultTableModel;
 
-/**
- *
- * @author Stark
- */
 public class AllCustomers extends javax.swing.JFrame {
 
    ConnectMe conMe=new ConnectMe();
